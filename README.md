@@ -16,7 +16,7 @@
 ```json
   "html-webpack-plugin": "^3.2.0"
 ```
-3. 配置 babel 转换 js 高级语法和 jsx 语法 / config load higher javascript grammar & react jsx grammer
+3. 配置 babel 转换 js 高级语法和 jsx 语法 / config load higher javascript grammar & react's jsx grammar
 ```json
   "babel-core": "^6.26.0",
   "babel-loader": "^7.1.4",
