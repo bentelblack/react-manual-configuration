@@ -1,4 +1,10 @@
 # react-manual-configuration
+
+### 使用方式
+1. `npm i` 安装所有依赖
+2. `npm run dev` 运行项目
+
+
 ### 配置步骤
 1. 初始化webpack项目
 ```json
